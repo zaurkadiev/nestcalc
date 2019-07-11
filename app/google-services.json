@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687777924643",
+    "firebase_url": "https://nestcalc-42dab.firebaseio.com",
+    "project_id": "nestcalc-42dab",
+    "storage_bucket": "nestcalc-42dab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687777924643:android:c23fe7c432ab4491",
+        "android_client_info": {
+          "package_name": "nestcalc.mrzbox.com.nestcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687777924643-gfj86f8um7p7eigqshojv4n3826f1v4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nestcalc.mrzbox.com.nestcalc",
+            "certificate_hash": "02df5e356e779c86bdf9db868986b2effeaa0bb3"
+          }
+        },
+        {
+          "client_id": "687777924643-7j9n31e5tliqs7p7f8j43rlsjrd50vdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtxhukhYX3YtvKFrmZ5MkmkWtRWPMxYSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687777924643-7j9n31e5tliqs7p7f8j43rlsjrd50vdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

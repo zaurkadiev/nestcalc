@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/history_toolbar_icon_more_id">
+        <item android:id="@+id/history_toolbar_icon_show_favorites_id"
+            android:title="@string/menu_show_favorites" />
+        <item android:id="@+id/history_toolbar_icon_delete_id"
+            android:title="@string/menu_erase_history" />
+        <item android:id="@+id/history_toolbar_icon_settings_id"
+            android:title="@string/menu_settings" />
+    </group>
+</menu>
